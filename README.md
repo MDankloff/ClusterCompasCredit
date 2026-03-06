@@ -27,7 +27,7 @@ A form of AI bias occurs when a model produces higher error rates for specific d
 # Getting started
 To replicate our experiments, you'll need the following datasets:
 
-**Compas_error_shap.csv**: Use this dataset to run the clustering analyses in the provided notebooks (compas_K-Means, compas_K-Prototypes, compas_DBSCAN).
+**Compas_error_shap_fixed.csv**: Use this dataset to run the clustering analyses in the provided notebooks (compas_K-Means, compas_K-Prototypes, compas_DBSCAN).
 
 **compas-scores-two-years.csv**: Use this original dataset from COMPAS for running the pre-processing notebooks.
 
